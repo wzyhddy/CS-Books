@@ -425,6 +425,7 @@
 
 #### 05 - 数据结构与算法
 
+- 《谷歌大佬总结的三本LeetCode刷题笔记，支持Java、C++、Go三种语言》 [百度云链接](https://pan.baidu.com/s/14_G6dHVpi7KFJ2NH3SC7IQ )  提取码：ujuc  
 - 《啊哈！算法 哈磊》 [百度云链接](https://pan.baidu.com/s/1ShKCKjoTIeThwQf0oHc_8w )  提取码：5fop 
 - 《大话数据结构》 [百度云链接](https://pan.baidu.com/s/1qedzjHo_mFTrUvcFXm44tg) 提取码：ehu4  
 - 《背包九讲》 [百度云链接](https://pan.baidu.com/s/1kg20UyREHVzuGZQANhTmfQ )  提取码：8ioa 
@@ -903,7 +904,7 @@
 
 - 《《[逆袭进大厂](https://github.com/forthespada/InterviewGuide)  超全面试总结强烈推荐、C++、操作系统、计算机网络、MySQL、Redis等》第二版》[百度云链接](https://pan.baidu.com/s/18UoSWI7CSKYE3jfybBP-Cw)  提取码：zogg
 
-- 《《[逆袭进大厂](https://pan.baidu.com/s/101k1ii8x6dsWtta690vsow )  超全面试总结强烈推荐、C++、操作系统、计算机网络、MySQL、Redis等》第三版》[百度云链接](https://pan.baidu.com/s/1HyIWqTnvD2EKGD2V_iC7XQ )  提取码：2ryp 
+- 《《[逆袭进大厂](https://pan.baidu.com/s/101k1ii8x6dsWtta690vsow)  超全面试总结强烈推荐、C++、操作系统、计算机网络、MySQL、Redis等》第三版》[百度云链接](https://pan.baidu.com/s/101k1ii8x6dsWtta690vsow)   提取码：2ryp
 
 - 《《InterViewGuide》第三版 - 2021.04.05 by 阿秀》 [百度云链接](https://pan.baidu.com/s/1ufHyDMP6cOAeal7CDXbExQ)     提取码：kzew 
 
@@ -969,6 +970,6 @@
 
 本仓库书籍链接全部来源于网络其他人的整理的链接，个人只是搜录整理他人成果。
 
-如有疑问请提交**issue**，有**违规侵权**，请联系本人axiucoder@foxmail.com，本人立马删除相应链接，感谢！
+如有疑问请提交**issue**，有**违规侵权**，请联系本人 **coderaxiu@163.com** ，本人立马删除相应链接，感谢！
 
 本仓库仅作学习交流分享使用，不作任何商用。
