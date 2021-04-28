@@ -9,7 +9,7 @@
            <a href="https://github.com/forthespada/CS-Books"><img src="https://img.shields.io/badge/PDF-免费计算机书籍-lightgrey.svg" alt="免费PDF"></a>
         </p>
 
-本仓库无偿分享各种计算机书籍、各种专业**PDF**资料以及个人笔记资料等，仓库所有权归仓库作者[阿秀](https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@1.3/202103/%E9%98%BF%E7%A7%80%E4%B8%AA%E4%BA%BA%E5%BE%AE%E4%BF%A1%E6%97%A0%E6%B1%89%E5%AD%972.png)（公众号【[<font color="#a52a2a">**拓跋阿秀**</font>](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.2.7/202102/csbooks-专用公众号.png)】）所有。在此承诺本仓库**永不收费**，永远免费分享给有需要的人，希望自己的**幸苦结晶**能够帮助到曾经那些像我一样的小白、新手、在校生们，为那些曾经像我一样迷茫的人指明一条路。 
+本仓库无偿分享各种计算机书籍、各种专业**PDF**资料以及个人笔记资料等，仓库所有权归仓库作者[阿秀](https://gitee.com/ForthEspada/image/raw/master/20210428173214.jpg)（公众号【[<font color="#a52a2a">**拓跋阿秀**</font>](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.2.7/202102/csbooks-专用公众号.png)】）所有。在此承诺本仓库**永不收费**，永远免费分享给有需要的人，希望自己的**幸苦结晶**能够帮助到曾经那些像我一样的小白、新手、在校生们，为那些曾经像我一样迷茫的人指明一条路。 
 
 **告诉他们，你是可以的！**
 
@@ -28,8 +28,7 @@
 
 >点击下列目录直接跳转书籍所在类别，但有时目录跳转会失灵...如果没有没有正常跳转可以动动小手向下拉即可，全部的书籍都在本页面。 
 >
->笔者是一个人在维护这个仓库，本地大概是1100多本书了，需要一步步慢慢上传，我只能在闲暇时间慢慢更新，一个人的力量是有限的，请谅解一下。如果没有您要用的书，可以加一下**个人微信([aXiu_go](https://cdn.jsdelivr.net/gh/forthespada/mediaImage2@1.3/202103/%E9%98%BF%E7%A7%80%E4%B8%AA%E4%BA%BA%E5%BE%AE%E4%BF%A1%E6%97%A0%E6%B1%89%E5%AD%972.png))**，注明来意，我会慢慢添加上去的。
->
+>笔者是一个人在维护这个仓库，本地大概是1100多本书了，需要一步步慢慢上传，我只能在闲暇时间慢慢更新，一个人的力量是有限的，请谅解一下。如果没有您要用的书，可以加一下**个人微信([coderxiu1](https://gitee.com/ForthEspada/image/raw/master/20210428173214.jpg))**，注明来意，我会慢慢添加上去的。
 
 - [00 - C语言](#00---C语言)
 - [01 - C++](#01---C++)
@@ -471,7 +470,6 @@
 - 《C++数据结构与算法 （第4版）带书签目录 完整版》 [百度云链接](https://pan.baidu.com/s/1t1bsfdO6MbrPE9MNurkHew)   提取码：6yyw 
 - 《趣学算法》 [百度云链接](https://pan.baidu.com/s/16pUBD7NDO8190Q_9La5IRQ )  提取码：lkah 
 - 《带你快速刷完67道剑指offer  by 阿秀》 [百度云链接](https://pan.baidu.com/s/1n_kjan_Wv2MhjJowY7J7fg)    提取码：96cw 
-  
 
 #### 06 - 操作系统
 
@@ -777,7 +775,6 @@
 - 《敏捷开发-设计模式》 [百度云链接](https://pan.baidu.com/s/1tLrlJy-XE8P6nIXSEXr7_Q )  提取码：h1xq 
 - 《head first design patterns》 [百度云链接](https://pan.baidu.com/s/1d8vBIBlNRve4i00sG7aLkg)   提取码：err5
 - 《设计模式之禅（第2版）》 [百度云链接](https://pan.baidu.com/s/1h_kDML8qeWMkoVUsMrQ_iQ)     提取码：m68r 
-  
 
 #### 16 - 汇编语言
 
@@ -810,7 +807,6 @@
 - 《Discrete Mathematics and Its Applications》 [百度云链接](https://pan.baidu.com/s/1Tp-DYhM6CfLflqPDB4BF_g)   提取码：fuox
 - 《Operations Research Applications And Algorithms》 [百度云链接](https://pan.baidu.com/s/18q6kf2pYT708E9pZoq0HQQ)   提取码：lrou
 - 《概率论与数理统计 - 陈希孺》 [百度云链接](https://pan.baidu.com/s/1A7eB7YKLSGB-mJwlezPJ0w)   提取码：iks9 
-  
 
 #### 19 - 程序员软技能
 
