@@ -8,23 +8,30 @@
     <a href="https://github.com/forthespada/InterviewGuide"><img src="https://img.shields.io/badge/GitHub-计算机校招社招面试题汇总-critical.svg" alt="八股文">      <a href="https://github.com/forthespada/CSLearning"><img src="https://img.shields.io/badge/推荐阅读-大佬好文-import.svg" alt="学习"></a>
            <a href="https://github.com/forthespada/CS-Books"><img src="https://img.shields.io/badge/PDF-免费计算机书籍-lightgrey.svg" alt="免费PDF"></a>
         </p>
+#### 1、😜作者简介
+
+阿秀，本科与研究生均于**普通二本学校就读**，研二时开始自学C++8个月，秋招共计投 94 家公司，笔试54场，面试34场，拿华为、百度、深信服、字节跳动 SP 等6个中大厂offer，最终顺利签约字节跳动抖音部门，现担任抖音部门全栈开发工程师一枚。人生最可怕的不是别人放弃了你，而是你自己放弃了你自己💖。
+
+
 
 本仓库无偿分享各种计算机书籍、各种专业**PDF**资料以及个人笔记资料等，仓库所有权归仓库作者[阿秀](https://gitee.com/ForthEspada/image/raw/master/20210428173214.jpg)（公众号【[<font color="#a52a2a">**拓跋阿秀**</font>](https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.6.2.7/202102/csbooks-专用公众号.png)】）所有。在此承诺本仓库**永不收费**，永远免费分享给有需要的人，希望自己的**幸苦结晶**能够帮助到曾经那些像我一样的小白、新手、在校生们，为那些曾经像我一样迷茫的人指明一条路。 
 
 **告诉他们，你是可以的！**
+
+
 
 🔗友情链接：我的实验室小伙伴陌溪在研究生期间做的一个开源的微服务博客项目 [蘑菇博客](https://gitee.com/moxi159753/mogu_blog_v2)，项目中运用了很多主流Java技术，如 SpringBoot、SpringCloud，ElasticSearch、Solr、RabbitMQ、Docker等等，这个开源项目也顺利的帮助陌溪拿到**字节跳动**，**滴滴出行**等大厂的 **提前批Offer**，如果大家想要充实自己的简历上的项目经历，非常值得看一看。同时还有一份陌溪**校招**时候的写的**笔记仓库** [LearningNotes](https://gitee.com/moxi159753/LearningNotes)，大家可以了解一下，欢迎 **Star** 支持⭐
 
 
 
 
-#### :hammer:重要提示
+#### 2、:hammer:重要提示
 
 浏览器去广告插件开了后百度云就会显示链接失效。。。 如果你发现提取链接失效，可以先看下自己有没有使用adblock等屏蔽广告插件哈
 
 
 
-#### :books:计算机经典书籍分享
+#### 3、:books:计算机经典书籍分享
 
 >点击下列目录直接跳转书籍所在类别，但有时目录跳转会失灵...如果没有没有正常跳转可以动动小手向下拉即可，全部的书籍都在本页面。 
 >
@@ -199,7 +206,7 @@
 - 《阿里巴巴Java开发手册--华山版》   [百度云链接](https://pan.baidu.com/s/1fmMyblrL2pZKxholhZrh3w )   提取码：z3fh 
 - 《阿里巴巴Java开发手册-嵩山版》   [百度云链接](https://pan.baidu.com/s/1zQNtk7WuHjxu-XpfLCbqGw )   提取码：z8mf 
 - 《阿里巴巴Java开发手册--泰山版》   [百度云链接](https://pan.baidu.com/s/1G40U8gnqKCTRC5N8jl6YKQ )  提取码：6cxz 
-- 《Java编辑思想（第四版）》 [百度云链接](https://pan.baidu.com/s/1exH0byT5YogMOmo7J1dDSQ ) 提取码：ogz5 
+- 《Java编程思想（第四版）》 [百度云链接](https://pan.baidu.com/s/1exH0byT5YogMOmo7J1dDSQ ) 提取码：ogz5 
 - 《Java并发编程的艺术》 [百度云链接](https://pan.baidu.com/s/1te0Uuz5bM1UURQzGBt1OxA ) 提取码：v8pj 
 - 《JAVA并发编程实践》 [百度云链接](https://pan.baidu.com/s/1ROwaQIPzhfkmSA-IjFAWgA ) 提取码：se4k 
 - 《Java从小白到大牛精简版》 [百度云链接](https://pan.baidu.com/s/1MzIRLTt8QwB5JNfuMZIXeA ) 提取码：zmer 
@@ -428,7 +435,7 @@
 - 《啊哈！算法 哈磊》 [百度云链接](https://pan.baidu.com/s/1ShKCKjoTIeThwQf0oHc_8w )  提取码：5fop 
 - 《大话数据结构》 [百度云链接](https://pan.baidu.com/s/1qedzjHo_mFTrUvcFXm44tg) 提取码：ehu4  
 - 《背包九讲》 [百度云链接](https://pan.baidu.com/s/1kg20UyREHVzuGZQANhTmfQ )  提取码：8ioa 
-- 《带你快速刷完67道剑指offer》 [百度云链接](https://pan.baidu.com/s/1JOPSJiUWM_M6GGerpdODpw )  提取码：p9su 
+- 《带你快速刷完67道剑指offer》 [百度云链接](https://pan.baidu.com/s/1s7Pxb12RtnfH48ps2BiCrA )   提取码：dxm0 
 - 《编程之美-完整版》 [百度云链接](https://pan.baidu.com/s/1_wwULGQtjwI_MR0_biZvUA)  提取码：yumy 
 - 《编程珠玑 第二版 人民邮电出版社》 [百度云链接](https://pan.baidu.com/s/1SYhLeAXyDWXEw-FPPFsGHQ )  提取码：gqg5 
 - 《编程珠玑 英文第二版-Programming.Pearls》 [百度云链接](https://pan.baidu.com/s/14L8E-vG9efQKr_f0EkqX-Q )  提取码：xsdt 
@@ -956,9 +963,10 @@
 <div align=right>
     <p>花了很久时间整理的，如果觉得本仓库有用，赏赐一块钱，买杯奶茶喝可好？感谢您了~</p>
 <figure class="half">
-    <img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.2.5.4/202012/支付宝赞赏4.png" alt="谢谢老铁" style="right;zoom: 35%;" />
-                                                                                                                        <img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.2.5.4/202012/微信赞赏4.png" alt="谢谢老铁" style="right;zoom: 35%;" />
+    <img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.2.5.4/202012/支付宝赞赏4.png" style="right;zoom: 35%;" />
+                                                                                                                        <img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.2.5.4/202012/微信赞赏4.png"  style="right;zoom: 35%;" />
                                                                                                                          </figure></div>
+
 
 
 
