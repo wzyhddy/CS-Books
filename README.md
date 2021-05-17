@@ -486,7 +486,7 @@
 - 《算法之道》 [百度云链接](https://pan.baidu.com/s/1bYsTGe5DoBfBonY3YcZVDw)   提取码：f2td 
 - 《C++数据结构与算法 （第4版）带书签目录 完整版》 [百度云链接](https://pan.baidu.com/s/1t1bsfdO6MbrPE9MNurkHew)   提取码：6yyw 
 - 《趣学算法》 [百度云链接](https://pan.baidu.com/s/16pUBD7NDO8190Q_9La5IRQ )  提取码：lkah 
-- 《带你快速刷完67道剑指offer  by 阿秀》 [百度云链接](https://pan.baidu.com/s/1n_kjan_Wv2MhjJowY7J7fg)    提取码：96cw 
+- 《带你快速刷完67道剑指offer  by 阿秀》 [百度云链接](https://pan.baidu.com/s/1s7Pxb12RtnfH48ps2BiCrA)    提取码：dxm0 
 
 #### 06 - 操作系统
 
