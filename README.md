@@ -284,7 +284,7 @@
 - 《Mahout算法解析与案例实战》 [百度云链接](https://pan.baidu.com/s/1Ae39bzWSlUXdnSfeJ78IZA )   提取码：0vtf 
 - 《Kafka权威指南(2018中文版)》 [百度云链接](https://pan.baidu.com/s/1YrlPRpaqa7tLziEX9ohgyQ)   提取码：nwrk 
 - 《Kafka源码解析与实战》 [百度云链接](https://pan.baidu.com/s/1CGfjE0BIVL9g9ri41X9kMA )  提取码：t83m 
-- 《MapReduce设计模式 [（美）迈纳，（美）舒克著]》 [百度云链接](https://pan.baidu.com/s/1upYNCxt7No0talDDGZxMqQ)  提取码：flxj 
+- 《MapReduce设计模式 [美.迈纳.舒克著]》 [百度云链接](https://pan.baidu.com/s/1upYNCxt7No0talDDGZxMqQ)  提取码：flxj 
 - 《Spark快速数据处理》 [百度云链接](https://pan.baidu.com/s/1d9TKEE-UZHndzg4KhbrVvg )   提取码：4m6s 
 - 《spark开发基础之Scala快餐》 [百度云链接](https://pan.baidu.com/s/1AA1m3en-DuaWdeGxwZiwKA )   提取码：hxz0 
 - 《Lucene实战（第2版）》 [百度云链接](https://pan.baidu.com/s/1oLXp9q7GC4prxzsSUiPNJA)   提取码：uot4 
@@ -921,6 +921,8 @@
 - 《《[逆袭进大厂](https://github.com/forthespada/InterviewGuide)  超全面试总结强烈推荐、C++、操作系统、计算机网络、MySQL、Redis等》V2.1》[百度云链接](https://pan.baidu.com/s/101k1ii8x6dsWtta690vsow)   提取码：2ryp
 
 - 《《[逆袭进大厂](https://github.com/forthespada/InterviewGuide)  也就是《InterViewGuide》V3- 2021.04.05 by 阿秀》 [百度云链接](https://pan.baidu.com/s/1ufHyDMP6cOAeal7CDXbExQ)     提取码：kzew 
+
+- 《《[逆袭进大厂](https://github.com/forthespada/InterviewGuide)  也就是《InterViewGuide》V4- 2021.06.17 by 阿秀》[百度云链接](https://pan.baidu.com/s/1_yuyugTSoZsp9hTheOjcBA)   提取码：qig9  
 
 - 《计算机校招直播视频、2021.02.25晚视频号录播》 [百度云链接](https://pan.baidu.com/s/1QLDmX1O7QZNWjb2Rr9Pxuw )  提取码：w0ez 
 
