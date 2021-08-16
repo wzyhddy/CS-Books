@@ -17,7 +17,7 @@
 
 [**点击此处**](http://mp.weixin.qq.com/s?__biz=Mzg2MDU0ODM3MA==&mid=100006518&idx=1&sn=b73d148edb691b12460312b9127713c8&chksm=4e25e60b79526f1db476d2bdcc3f748baafb73a3d039392b1249cd80cff1c1f71b8664326ca1#rd)查看改变我人生命运的八个月自学C++之路。人生最可怕的不是别人放弃了你，而是你自己放弃了你自己💖。
 
-
+ 
 
 本仓库无偿分享各种计算机书籍、各种专业**PDF**资料以及个人笔记资料等，仓库所有权归仓库作者[阿秀](https://mp.weixin.qq.com/s/gRw25aRFBVB0lUhBAJqV5g)（公众号【[<font color="#a52a2a">**拓跋阿秀**</font>](https://mp.weixin.qq.com/s/gRw25aRFBVB0lUhBAJqV5g)】）所有。在此承诺本仓库**永不收费**，永远免费分享给有需要的人，希望自己的**幸苦结晶**能够帮助到曾经那些像我一样的小白、新手、在校生们，为那些曾经像我一样迷茫的人指明一条路。 
 
