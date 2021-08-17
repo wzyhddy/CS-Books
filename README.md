@@ -122,7 +122,7 @@
 
 - 《阿秀个人在学习C++过程中的笔记，包括黑马C++视频笔记，TCPIP网络编程笔记》 [百度云链接](https://pan.baidu.com/s/18XAu8OTsJmX_sfZ1qpmCcw)   提取码：fw8s
 
-- 《[6个可以写在简历上的C++项目](https://mp.weixin.qq.com/s/PuZpyvFzYr7ZBqe5imS9BQ)》 [百度云链接](https://pan.baidu.com/s/1efly72L、IaBt8prveuwwQ)   提取码：sq61 
+- 《[6个可以写在简历上的C++项目](https://mp.weixin.qq.com/s/PuZpyvFzYr7ZBqe5imS9BQ)》 [百度云链接](https://pan.baidu.com/s/1efly72L--IaBt8prveuwwQ )   提取码：sq61 
 
 - 《[推荐一个不错的C++项目，我可能是发现这个项目的第一人](https://mp.weixin.qq.com/s/IHh4p-Pd6x6UPHXJrlDgQg)》  [百度云链接](https://pan.baidu.com/s/1Mw6158y5ZtIfvSgTSqWd1A )  提取码：s04w
 
@@ -211,7 +211,7 @@
 - 《Java 8 实战》 [百度云链接](https://pan.baidu.com/s/1kxgntpEDq4kAzygasmJndQ ) 提取码：3ej1 
 - 《阿里巴巴Java开发手册、1.0.0公开版》   [百度云链接](https://pan.baidu.com/s/16puKNw6Hl2FOibLxntAnrg )    提取码：pl9v 
 - 《阿里巴巴Java开发手册、1.1.0正式版》   [百度云链接](https://pan.baidu.com/s/1h89f6LXQVXjPBzo-QCbVeQ )   提取码：zrxy 
-- 《阿里巴巴Java开发手册、1.2.0升级版》   [百度云链接](https://pan.baidu.com/s/1PpFknXadBvYkW、fcRWvVw )   提取码：n45a 
+- 《阿里巴巴Java开发手册、1.2.0升级版》   [百度云链接](https://pan.baidu.com/s/13kkSmXVlLJoESqVYHxcBQw)   提取码: p350
 - 《阿里巴巴Java开发手册、1.3.0终极版》   [百度云链接](https://pan.baidu.com/s/1iwVotVtFSDQgIo83gJARtw )   提取码：ycoc 
 - 《阿里巴巴Java开发手册、1.4.0详尽版》   [百度云链接](https://pan.baidu.com/s/1CHAlcaUpeHVaYhboCsx2fQ )   提取码：dya6 
 - 《阿里巴巴Java开发手册、华山版》   [百度云链接](https://pan.baidu.com/s/1fmMyblrL2pZKxholhZrh3w )   提取码：z3fh 
@@ -362,7 +362,7 @@
 - 《python程序员指南中文版》 [百度云链接](https://pan.baidu.com/s/1ubmuxQc8CcRAknZRQXr5SQ)    提取码：0ia6 
 - 《Python学习手册(第3版)》 [百度云链接](https://pan.baidu.com/s/1f197WOHN9c9mjkUQ7i3WTg )    提取码：2pla 
 - 《think-python》 [百度云链接](https://pan.baidu.com/s/1pdIn6cFKALuFZPbHQp4goA )    提取码：vt8r 
-- 《think python2》 [百度云链接](https://pan.baidu.com/s/1Wd、nIhfHU-Ir5DqM6yQgQ )    提取码：ryq0 
+- 《think python2》 [百度云链接](https://pan.baidu.com/s/1lePK-L11Vix9GStATx2rzw )    提取码: vaof
 - 《Python技术手册(第2版)》 [百度云链接](https://pan.baidu.com/s/1j3LP-AtRkh6_dNl25Qlxeg)     提取码：iovv 
 - 《Python进阶》 [百度云链接](https://pan.baidu.com/s/1djVxEMYDDGruBlZgzDjpYQ)     提取码：4f3r 
 - 《python编程金典》 [百度云链接](https://pan.baidu.com/s/1_nk1ANCwIx9OxxhQ7JK7Xg )     提取码：q3mu 
@@ -487,7 +487,6 @@
 - 《算法之道》 [百度云链接](https://pan.baidu.com/s/1bYsTGe5DoBfBonY3YcZVDw)   提取码：f2td 
 - 《C++数据结构与算法 （第4版）带书签目录 完整版》 [百度云链接](https://pan.baidu.com/s/1t1bsfdO6MbrPE9MNurkHew)   提取码：6yyw 
 - 《趣学算法》 [百度云链接](https://pan.baidu.com/s/16pUBD7NDO8190Q_9La5IRQ )  提取码：lkah 
-- 《带你快速刷完67道剑指offer  by 阿秀》 [百度云链接](https://pan.baidu.com/s/1s7Pxb12RtnfH48ps2BiCrA)    提取码：dxm0 
 
 #### 06、操作系统
 
@@ -918,8 +917,6 @@
 
 - 《《[逆袭进大厂](https://github.com/forthespada/InterviewGuide)  超全面试总结强烈推荐、C++、操作系统、计算机网络、MySQL、Redis等》V2》[百度云链接](https://pan.baidu.com/s/18UoSWI7CSKYE3jfybBP-Cw)  提取码：zogg
 
-- 《《[逆袭进大厂](https://github.com/forthespada/InterviewGuide)  超全面试总结强烈推荐、C++、操作系统、计算机网络、MySQL、Redis等》V2.1》[百度云链接](https://pan.baidu.com/s/101k1ii8x6dsWtta690vsow)   提取码：2ryp
-
 - 《《[逆袭进大厂](https://github.com/forthespada/InterviewGuide)  也就是《InterViewGuide》V3- 2021.04.05 by 阿秀》 [百度云链接](https://pan.baidu.com/s/1ufHyDMP6cOAeal7CDXbExQ)     提取码：kzew 
 
 - 《《[逆袭进大厂](https://github.com/forthespada/InterviewGuide)  也就是《InterViewGuide》V4- 2021.06.17 by 阿秀》[百度云链接](https://pan.baidu.com/s/1b153vXtVjpFUs4KkbmLPSQ )   提取码：9u76
@@ -964,7 +961,7 @@
 
 - 《城市新青年：美团外卖骑手就业报告》 [百度云链接](https://pan.baidu.com/s/1P2VV4CwKPKpxV6myjtJ_Hg )   提取码：i8y5 
 - 《活着、余华》  [百度云链接](https://pan.baidu.com/s/1Pk6yeTM2nUgHUM5ji2Gn4Q )  提取码：29s4 
-- 《许三观卖血记、余华》 [百度云链接](https://pan.baidu.com/s/13j4KevXl3SfPsdAOu27qyw )  提取码：pgf3 
+- 《许三观卖血记、余华》 [百度云链接](https://pan.baidu.com/s/1xILsVtG29ByWpFcKYvdTsw)  提取码: ukmj 
 - 《平凡的世界、路遥》  [百度云链接](https://pan.baidu.com/s/1hNPgA3YlllyEuc-fBw2lhg )  提取码：vaa6 
 
 -------
