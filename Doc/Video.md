@@ -6,17 +6,17 @@
 
 前段时间花了一些时间专门去总结了一下自己的学习视频，一共分为三期，可以免费白嫖的那种！
 
-![第一期](https://cdn.jsdelivr.net/gh/forthespada/mediaImage3//image/202110091952776.png)
+<img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage3//image/202110091952776.png" alt="第一期" style="zoom:50%;" />
 
-![第二期](https://cdn.jsdelivr.net/gh/forthespada/mediaImage3//image/202110091953945.png)
+<img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage3//image/202110091953945.png" alt="第二期" style="zoom:50%;" />
 
-![第三期](/Users/bytedance/Library/Application%20Support/typora-user-images/image-20211009195327141.png)
+<img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage3//image/202110092015964.png" alt="第三期" style="zoom:50%;" />
 
 ## 免费获取方式
 
 扫描下方二维码，回复关键字” **学习路线**“，即可获取我精心总结的学习路线和配套资源
 
-![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage3//image/202110092001449.png)
+<img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage3//image/202110092001449.png" style="zoom:33%;" />
 
 
 
@@ -32,5 +32,5 @@
 
 扫描下方二维码，回复关键字” **学习路线**“，即可获取我精心总结的学习路线和配套资源
 
-![](https://cdn.jsdelivr.net/gh/forthespada/mediaImage3//image/202110092001449.png)
+<img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage3//image/202110092001449.png" style="zoom:33%;" />
 
