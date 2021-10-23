@@ -10,11 +10,7 @@
 
 扫描下方二维码，回复关键字” **PDF**“，即可获取陌溪本人原创的Java学习笔记！
 
-
-
-
-
-
+<img src="https://gitee.com/ForthEspada/image/raw/master/image/202110230131757.png" style="width:400px;" />
 
 
 
@@ -26,7 +22,7 @@
 
 扫描下方二维码，回复关键字” **PDF**“，即可获取阿秀本人原创的计算机求职笔记！
 
-<img src="https://gitee.com/ForthEspada/image/raw/master/image/202110230045179.png" style="zoom:33%;" />
+<img src="https://gitee.com/ForthEspada/image/raw/master/image/202110230045179.png" style="width:300px;" />
 
  
 
