@@ -18,9 +18,9 @@
 
 >附赠两个云服务器优惠信息：
 >
->【阿里云】云服务器狂欢特惠，**2核2G5M** 轻量级应用服务器 **60** 元/年【阿秀目前使用】  [点我传送](https://www.aliyun.com/minisite/goods?userCode=z83rmooz)
+>【阿里云】云服务器狂欢特惠，**2核2G5M** 轻量级应用服务器 **60** 元/年【阿秀目前使用】   [点我直达](https://www.aliyun.com/minisite/goods?userCode=z83rmooz)
 >
->【腾讯云】轻量应用服务器限时秒杀，**1核2G6M** 限时首年**74**元/年【阿秀强烈推荐】 [点我进入](hhttps://curl.qcloud.com/R21rJgZ7)
+>【腾讯云】轻量应用服务器限时秒杀，**1核2G6M** 限时首年**74**元/年【阿秀强烈推荐】 [点我直达](hhttps://curl.qcloud.com/R21rJgZ7)
 
 #### 3、👍🏻两位字节跳动后端研发工程师学习笔记，[点此一键免费获取](./Doc/other.md)
 
