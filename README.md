@@ -10,23 +10,23 @@
         </p>
 
 
-#### 1、👉 推荐：**如果国内访问Github网速较慢，可以访问码云**，[点此直达](https://gitee.com/ForthEspada/CS-Books)
+#### 1、👉 推荐：**如果国内访问Github网速较慢，可以访问码云**，<a href="https://gitee.com/ForthEspada/CS-Books" target="_blank">点此直达</a>
 
 本仓库**持续更新**中，后续会陆续分享更多经典电子书，**建议大家 Star 下本仓库**，下次找书可以直接 **Ctrl + F**，找书再也不愁！
 
-#### 2、计算机求职网站，适用于计算机校招应届生以及毕业三年之内的社招求职党，[点我直达](https://interviewguide.cn/#/)
+#### 2、计算机求职网站，适用于计算机校招应届生以及毕业三年之内的社招求职党，<a href="https://interviewguide.cn/#/" target="_blank">点我直达</a>
 
 >附赠两个云服务器优惠信息：
 >
->【阿里云】云服务器狂欢特惠，**2核2G5M** 轻量级应用服务器 **60** 元/年【阿秀目前使用】   [点我直达](https://www.aliyun.com/minisite/goods?userCode=z83rmooz)
+>【阿里云】云服务器狂欢特惠，**2核2G5M** 轻量级应用服务器 **60** 元/年【阿秀目前使用】   <a href="https://www.aliyun.com/minisite/goods?userCode=z83rmooz" target="_blank">传送门</a> 
 >
->【腾讯云】轻量应用服务器限时秒杀，**1核2G6M** 限时首年**74**元/年【阿秀强烈推荐】 [点我直达](hhttps://curl.qcloud.com/R21rJgZ7)
+>【腾讯云】轻量应用服务器限时秒杀，**1核2G6M** 限时首年**74**元/年【阿秀强烈推荐】 <a href="https://curl.qcloud.com/R21rJgZ7" target="_blank">传送门</a>
 
-#### 3、👍🏻两位字节跳动后端研发工程师学习笔记，[点此一键免费获取](./Doc/other.md)
+#### 3、👍🏻两位字节跳动后端研发工程师学习笔记，<a href="./Doc/other.md" target="_blank">点此一键免费获取</a> 
 
-#### 4、⭐计算机经典图书榜单Top50，[点此一键免费获取](./Doc/当当Top50.md)
+#### 4、⭐计算机经典图书榜单Top50，<a href="./Doc/当当Top50.md" target="_blank">点此一键免费获取</a> 
 
-#### 5、😜计算机优秀编程视频与吐血整理的学习路线，[点此一键免费获取](./Doc/Video.md)
+#### 5、😜计算机优秀编程视频与吐血整理的学习路线， <a href="./Doc/Video.md" target="_blank">点此一键免费获取</a>
 
 #### 6、:books:超过1000本！计算机经典书籍PDF分享
 
@@ -70,7 +70,7 @@
 - [20、其余资料](#20、其余资料)
 - [21、社招校招各种面经汇总](#21、社招校招各种面经汇总)
 - [22、我建议你下载，以后肯定用得上](#我建议你下载，以后肯定用得上)
-- [赞赏名单](#Donate)
+- [友情打赏](#Donate)
 
 
 
@@ -490,8 +490,8 @@
 - 《30天自制操作系统 (图灵程序设计丛书)》 [百度云链接](https://pan.baidu.com/s/1oY_pKauVOso44BKKKU8pYQ )   提取码：vtbf 
 - 《操作系统设计与实现》 [百度云链接](https://pan.baidu.com/s/1Rp7orpMgo1rjU59GGMo_mg)   提取码：fvo8 
 - 《操作系统真象还原》 [百度云链接](https://pan.baidu.com/s/11_ZXZ0415gKbuhwTKf66hw)    提取码：blrx 
+- 《操作系统精髓与设计原理 第6版》 [百度云链接](https://pan.baidu.com/s/1NAUB37lqUwkGvHpi3O-1xQ)   提取码：y7pk 
 - 《操作系统精髓与设计原理 第8版》 [百度云链接](https://pan.baidu.com/s/1TD_TFEcXwV8xxxA10hDBXg)   提取码：buzn 
-- 《操作系统精髓与设计原理 第9版》 [百度云链接](https://pan.baidu.com/s/1NAUB37lqUwkGvHpi3O-1xQ)   提取码：y7pk 
 - 《自己动手写操作系统》 [百度云链接](https://pan.baidu.com/s/1rpTNR_f5VgTtVy-swSim9w )   提取码：zzvy 
 - 《CMU2017-Lab》 [百度云链接](https://pan.baidu.com/s/1YjrpbkoJ3QEbgduCGBV10A)    提取码：fabh 
 - 《Compilers_ Principles, Techniques, and Tools》 [百度云链接](https://pan.baidu.com/s/1bxyVbHGZv8TkFMe4pVGMUw )   提取码：o3h5 
@@ -903,15 +903,15 @@
 
 #### 21、社招校招汇总
 
-- 《[逆袭进大厂](https://github.com/forthespada/InterviewGuide) 超全面试总结强烈推荐、C++、操作系统、计算机网络、MySQL、Redis等》V0<br>[百度云链接](https://pan.baidu.com/s/1RCHHSAzSKUSlLlmKXJeiNw )   提取码：aa06  
+- 《《[逆袭进大厂](https://github.com/forthespada/InterviewGuide)  也就是《InterViewGuide》V4- 2021.06.17 by 阿秀》[百度云链接](https://pan.baidu.com/s/1b153vXtVjpFUs4KkbmLPSQ )   提取码：9u76
+
+- 《《[逆袭进大厂](https://github.com/forthespada/InterviewGuide)  也就是《InterViewGuide》V3- 2021.04.05 by 阿秀》 [百度云链接](https://pan.baidu.com/s/1ufHyDMP6cOAeal7CDXbExQ)     提取码：kzew 
 
 - 《[逆袭进大厂](https://github.com/forthespada/InterviewGuide)  超全面试总结强烈推荐、C++、操作系统、计算机网络、MySQL、Redis等》V1<br>[百度云链接](https://pan.baidu.com/s/14VFpE0X8nAhQtkTliOzePA )   提取码：6lxd 
 
 - 《《[逆袭进大厂](https://github.com/forthespada/InterviewGuide)  超全面试总结强烈推荐、C++、操作系统、计算机网络、MySQL、Redis等》V2》[百度云链接](https://pan.baidu.com/s/18UoSWI7CSKYE3jfybBP-Cw)  提取码：zogg
 
-- 《《[逆袭进大厂](https://github.com/forthespada/InterviewGuide)  也就是《InterViewGuide》V3- 2021.04.05 by 阿秀》 [百度云链接](https://pan.baidu.com/s/1ufHyDMP6cOAeal7CDXbExQ)     提取码：kzew 
-
-- 《《[逆袭进大厂](https://github.com/forthespada/InterviewGuide)  也就是《InterViewGuide》V4- 2021.06.17 by 阿秀》[百度云链接](https://pan.baidu.com/s/1b153vXtVjpFUs4KkbmLPSQ )   提取码：9u76
+- 《[逆袭进大厂](https://github.com/forthespada/InterviewGuide) 超全面试总结强烈推荐、C++、操作系统、计算机网络、MySQL、Redis等》V0<br>[百度云链接](https://pan.baidu.com/s/1RCHHSAzSKUSlLlmKXJeiNw )   提取码：aa06  
 
 - 《计算机校招直播视频、2021.02.25晚视频号录播》 [百度云链接](https://pan.baidu.com/s/1QLDmX1O7QZNWjb2Rr9Pxuw )  提取码：w0ez 
 
@@ -962,12 +962,14 @@
 
 #### Donate
 
-<div align=right>
-    <p>花了很久时间整理的，如果觉得本仓库有用，赏赐一块钱，买杯奶茶喝可好？感谢您了~</p>
-<figure class="half">
+<div align=left>
+    <p>这些书籍是我在一个盗版计算机书籍网站上找到的，并且花了很久时间整理出来的。<br>
+      如果觉得本仓库有用，赏赐一块钱，买杯奶茶喝可好？感谢您了~</p>
+<figure class="half" align="right">
     <img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.2.5.4/202012/支付宝赞赏4.png" style="right;zoom: 35%;" />
                                                                                                                         <img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage1@1.2.5.4/202012/微信赞赏4.png"  style="right;zoom: 35%;" />
                                                                                                                          </figure></div>
+
 
 
 
