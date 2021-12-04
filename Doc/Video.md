@@ -20,7 +20,7 @@
 
 扫描下方二维码，回复关键字” **学习路线**“，即可获取我精心总结的学习路线和配套资源
 
-<img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage3//image/202110092001449.png" style="width:300px;" />
+<img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage3//image/202110092001449.png" style="zoom:20%" />
 
 
 
@@ -28,7 +28,7 @@
 
 **C++学习路线**
 
-<img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage3//image/202110091958420" alt="C++学习路线" style="zoom:67%;" />
+<img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage3//image/202112042235077.png" alt="C++学习路线" style="zoom:33%;" />
 
 **Golang学习路线**
 
@@ -42,5 +42,5 @@
 
 扫描下方二维码，回复关键字” **学习路线**“，即可获取我精心总结的学习路线和配套资源
 
-<img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage3//image/202110092001449.png" style="zoom: 30%" />
+<img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage3//image/202110092001449.png" style="zoom: 20%" />
 
