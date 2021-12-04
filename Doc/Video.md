@@ -20,7 +20,7 @@
 
 扫描下方二维码，回复关键字” **学习路线**“，即可获取我精心总结的学习路线和配套资源
 
-<img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage3//image/202110092001449.png" style="zoom:20%" />
+<img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage3//image/202110092001449.png" style="width:200px" />
 
 
 
@@ -42,5 +42,5 @@
 
 扫描下方二维码，回复关键字” **学习路线**“，即可获取我精心总结的学习路线和配套资源
 
-<img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage3//image/202110092001449.png" style="zoom: 20%" />
+<img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage3//image/202110092001449.png" style="width:200px" />
 
