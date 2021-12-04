@@ -6,7 +6,11 @@
 
 前段时间花了一些时间专门去总结了一下自己的学习视频，一共分为三期，可以免费白嫖的那种！
 
-<img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage3//image/202110091952776.png" alt="第一期" style="width:400px;" />
+<div style="align:center">
+  <img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage3//image/202110091952776.png" alt="第一期" style="width:400px;" />
+</div>
+
+
 
 <img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage3//image/202110091953945.png" alt="第二期" style="width:400px;" />
 
@@ -22,9 +26,15 @@
 
 ## <h1 style="align:center">2、各种学习路线</h1>
 
-比如自己花了一个多月总结出来的C++学习路线
+**C++学习路线**
 
 <img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage3//image/202110091958420" alt="C++学习路线" style="zoom:67%;" />
+
+**Golang学习路线**
+
+<img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage3//image/202112042219237.png" alt="Golang学习路线" style="zoom:20%;" />
+
+**前端学习路线**
 
 以及还有其余的学习路线等，正在努力更文中~
 
@@ -32,5 +42,5 @@
 
 扫描下方二维码，回复关键字” **学习路线**“，即可获取我精心总结的学习路线和配套资源
 
-<img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage3//image/202110092001449.png" style="width:300px;" />
+<img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage3//image/202110092001449.png" style="zoom: 30%" />
 
