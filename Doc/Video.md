@@ -26,15 +26,17 @@
 
 ## <h1 style="align:center">2、各种学习路线</h1>
 
-**C++学习路线**
+**C++学习路线**：[点击查看全文](https://mp.weixin.qq.com/s/3pcENm2--dVWksNjvtCTcQ)
 
 <img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage3//image/202112042235077.png" alt="C++学习路线" style="zoom:33%;" />
 
-**Golang学习路线**
+
+
+**Golang学习路线**：[点击查看全文](https://mp.weixin.qq.com/s/HkIKYaQfgI9_1o6o7LbGVg)
 
 <img src="https://cdn.jsdelivr.net/gh/forthespada/mediaImage3//image/202112042219237.png" alt="Golang学习路线" style="zoom:20%;" />
 
-**前端学习路线**
+**前端学习路线**：
 
 以及还有其余的学习路线等，正在努力更文中~
 
